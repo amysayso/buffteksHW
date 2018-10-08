@@ -24,7 +24,7 @@ namespace buffteksHW.Models
 
              public override string ToString()
         {
-            return this.ProjectLeader + " " + this.ProjectName;
+            return this.ProjectLeader + " = " + this.ProjectName;
         }
 
         }

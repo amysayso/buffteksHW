@@ -19,7 +19,7 @@ namespace buffteksHW.Models
 
              public override string ToString()
         {
-            return this.OrgAdvisor + "=" + this.OrgEmail;
+            return this.OrgAdvisor + " = " + this.OrgEmail;
         }
         }
 }
