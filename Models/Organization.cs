@@ -6,7 +6,7 @@ namespace buffteksHW.Models
 	{
 
  	        //PK
-            public int OrganizationtID {get; set;}
+            public int ID {get; set;}
 
             //Org Advisor 
             public string OrgAdvisor {get; set;}

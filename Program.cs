@@ -256,20 +256,20 @@ namespace buffteksHW
                         {
                             new Organization()
                             {
-                               OrganizationtID = 348869,
+                               
                                OrgAdvisor = "John Doe",
                                OrgEmail = "haghoafhgaf@jff.fga"
                             },
 
                               new Organization()
                             {
-                               OrganizationtID = 452575,
+                              
                                OrgAdvisor = "Alexis Jones",
                                OrgEmail = "afgafdga@gsfga.fga"
                             },
                              new Organization()
                             {
-                               OrganizationtID = 894579,
+                               
                                OrgAdvisor = "Rebecca Smith",
                                OrgEmail = "afasgafafganj@ghgg.fga"
                             },
